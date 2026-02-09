@@ -53,3 +53,7 @@ npm run dev
 ```
 
 Приложение откроется по адресу, который выведет Vite (обычно `http://localhost:5173`).
+
+## Live demo
+
+Проект доступен на GitHub Pages: [https://pavelgueliev.github.io/Task-A-Notes/](https://pavelgueliev.github.io/Task-A-Notes/)
